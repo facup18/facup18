@@ -1,4 +1,4 @@
-Unemployed looking for a job
+Unemployed looking for a job.
 Hello, I'm Facundo Perdomo a guy from Uruguay looking for a job as a programmer, it's my biggest hobby to be a programmer.
 I'm taking courses at FreeCodeCamp and a few days ago I got certified in responsive web development, covering html and css. And I'm going to continue with javascript although I already have previous knowledge of the language because of some courses I did on youtube.
 I like computer science so much that all my studies have been on that side.
